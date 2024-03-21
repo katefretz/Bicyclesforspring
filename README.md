@@ -1,3 +1,3 @@
 # Bicyclesforspring
 
-[edit here](https://diy-pwa.com/~/gh/katefretz/bucyclesforspring)
+[edit here](https://diy-pwa.com/~/gh/katefretz/bicyclesforspring)
