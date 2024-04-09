@@ -1,0 +1,11 @@
+{
+"description": "serverless wordpress",
+	"scripts": {
+		"build": "diy-pwa build bicyclesforspring",
+		"build:cloudflare": "diy-pwa build",
+		"preview": "diy-pwa preview bicyclesforspring"
+	},
+	"devDependencies": {
+		"diy-pwa": "latest"
+	}
+}
